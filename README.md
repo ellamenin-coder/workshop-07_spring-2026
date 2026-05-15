@@ -20,5 +20,7 @@ There is a 'code' folder in which data for all linear models are stored.
 
 ## Rendered output
 
-There rendered .pdf for the abalone linear model is 
+The rendered .pdf for the sonadora temp example is
+[here](https://github.com/ellamenin-coder/workshop-07_spring-2026/blob/main/code/abalone-example.pdf)
+The rendered .pdf for the abalone linear model is 
 [here](https://github.com/ellamenin-coder/workshop-07_spring-2026/blob/main/code/abalone-example.pdf).
