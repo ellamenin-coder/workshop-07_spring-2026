@@ -3,7 +3,7 @@ title: "Linear regression: Sonadora temperature and elevation example"
 author: "Ella Menin"
 date: "2026-05-15"
 format:
-  html:
+  pdf:
     toc: true # use this to display a table of contents
 execute:
   message: false # use this to make sure messages don't show up
@@ -115,6 +115,7 @@ plot(temperature_model)
 ```{r}
 #| label: temperature-model-summary
 
+# sumary of temperature model (display in console)
 summary(temperature_model)
 
 ```
